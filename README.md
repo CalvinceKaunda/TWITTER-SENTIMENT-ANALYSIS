@@ -18,7 +18,7 @@ Apple would like to review customer sentiments from Twitter about their products
 The Goal of this project is to build a model that classifies tweets as possitive, negative or neutral in order to automate sentiment analysis
 
 ## Data Understanding
-The dataset used for this project is from Kaggle: [Apple Twitter Sentiment](https://www.kaggle.com/datasets/slythe/apple-twitter-sentiment-crowdflower)
+The dataset used for this project is from Kaggle: [Apple Twitter Sentiment (CrowdFLower)](https://www.kaggle.com/datasets/slythe/apple-twitter-sentiment-crowdflower)
 The dataset contains multiple features such as the date of the tweet, confidence of the sentiment, sentiment of the tweet/text, and text/tweets, among others. Our target is the sentiment and we would like to predict the sentiment based on the text/tweet 
 
 ## Data Preperation
