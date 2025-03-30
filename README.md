@@ -1,3 +1,4 @@
+![Banner](image1.jpeg)
 
 # TWITTER-SENTIMENT-ANALYSIS
 
