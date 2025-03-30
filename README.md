@@ -1,6 +1,8 @@
+# TWITTER-SENTIMENT-ANALYSIS
+
 ![Banner](image1.jpeg)
 
-# TWITTER-SENTIMENT-ANALYSIS
+
 
 Authors: 
 
