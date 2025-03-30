@@ -1,3 +1,5 @@
+![Twitter Sentiment Analysis]([https://your-image-host.com/wordcloud.png](https://camo.githubusercontent.com/16a3f2fd00ca50662fc4acbd280f7235df7fb366c50f3f79006f19f42cd5c72e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a7670314d333741474d4f467743764c78566d363249412e6a706567))
+
 # TWITTER-SENTIMENT-ANALYSIS
 
 Authors: 
