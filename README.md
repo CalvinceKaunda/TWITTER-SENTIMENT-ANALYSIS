@@ -45,6 +45,3 @@ Overfitting was reduced in XGBoost, however its generalization ability still fel
 We recommend the Logistic Regression model for business applications 
 The model can still be tuned further by considering word embeddings such as BERT instead of TF-IDF. Additionally we can explore n-gram combinations for better phrase detection, hence increasing the accuracy of the model futher.
 More labelled data can also be gathered in order to improve generalization and semisupervised learning can also be used to leverage unlabelled text data.
- -  
-
-Logistic Regression Model
