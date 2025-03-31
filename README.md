@@ -6,7 +6,7 @@
 
 Authors: 
   [Calvince Kaunda](https://github.com/CalvinceKaunda)
-
+  [Samuel Marimbi](https://github.com/S-Marimbi)
  
 ## Overview
 Not only does a business launch a new product but also evaluates the performance of the  product. Performance may be in terms of profits or how it is received by the target market. It is necessary to consider customer feedback in order to improve the quality of the product and have better products in general in the market. A useful technique for analysing the reviews of the product is through social media reviews. Businesses can evaluate how customers feel regarding the product via analysis of posts, tweets and threads about the product.
