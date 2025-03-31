@@ -4,8 +4,9 @@
 
 
 
-Authors: 
-        [Calvince Kaunda](https://github.com/CalvinceKaunda)  
+Authors:   
+
+        [Calvince Kaunda](https://github.com/CalvinceKaunda) 
         [Samuel Marimbi](https://github.com/S-Marimbi)  
         [Sharon Paul](https://github.com/Sharzyp)  
         [Brenda Mutai](https://github.com/Brendamutai)
